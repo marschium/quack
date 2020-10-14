@@ -1,0 +1,8 @@
+[package]
+name = "quack-hello_world"
+version = "0.1.0"
+authors = ["c <null>"]
+edition = "2018"
+
+[dependencies]
+quack = { path = "../.." }
